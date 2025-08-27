@@ -471,7 +471,7 @@ Enforce a minimum number of rate indices checks and proper positioning relative
 to the base rate index when configuring rates, ensuring all protocol features
 operate as designed.
 
-## [I-02] Input params should be checked with require and not with assert
+## [I-01] Input params should be checked with require and not with assert
 
 ### Description
 
@@ -495,7 +495,7 @@ these input params should be checked throught `require`
 
 Use revert to check these input
 
-## [I - 01] Incorrect NatSpec Comments in QuakeCash Contract
+## [I - 02] Incorrect NatSpec Comments in QuakeCash Contract
 
 ### Description
 
